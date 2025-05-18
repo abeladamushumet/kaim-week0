@@ -1,1 +1,1 @@
-# kaim-week0
+# week-0
